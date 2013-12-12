@@ -1,0 +1,4 @@
+mexicocoin
+==========
+
+Cryptocurrency coin
